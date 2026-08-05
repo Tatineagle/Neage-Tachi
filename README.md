@@ -1,3 +1,5 @@
+![image alt](https://github.com/Tatineagle/Neage-Tachi/blob/d5477bb72c0d8d514cce103c9645bce6007fda45/unnamed.jpg)
+
 Neage Tachi is a UTAUloid characterized by a deep, raspy voice.
 
 (Using Tachi in OpenUtau is recommended.)

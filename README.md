@@ -36,3 +36,5 @@ Year of creation: 2010
 Problem-solving: His hair expresses his emotions, as Tachi himself is not very expressive.
 
 Humorous detail: When he gets angry, his hair becomes as hard as cast iron.
+
+The VoiceBank: https://drive.google.com/file/d/1zhN__k1R-dlW8OmoVebKNmEfDJ4kGHXs/view?usp=drive_link

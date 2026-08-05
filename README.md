@@ -1,39 +1,36 @@
-# Your singer name
-[English](README.md) | [Русский](README.ru.md)
+Neage Tachi is a UTAUloid characterized by a deep, raspy voice.
 
-![Avatar](/image.png)
+(Using Tachi in OpenUtau is recommended.)
 
-Good example: [Awata Weak](https://github.com/hhskt/Awata_Weak)
+Vocal characteristics:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1: Natural deep pitch at E2
 
-## General information
-- Gender: Test
-- Height: 111m
-- Weight: 222g
-- Age: 33
+2: Somewhat raspy
 
-## Terms of use
-- R-18 Content Allowed: Idk
-- Commercial Use of Voicebank Allowed: Yes
-- Commercial Use of Character Allowed: Permission Required
-- Do these terms apply to derivative characters/voices: Yes
+3: Guttural
 
-## Groups
-- [testgroup](https://github.com/ViSingers/group-template)
+4: Low volume
 
-## First test bank
-Test description 1
-- Type: Diffsinger
-- Languages: Russian, Japanese
+5: Volume fades out gradually
 
-## Second test bank
-Test description 2
-- Type: UTAU
-- Languages: English
+Recommended vocal range (lowest to highest note):
 
-## Videos
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/StlZnXhwnk4)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
+High: G2 - F3
+
+Low: C2 - E2
+
+Sub-low: F1 - B1
+
+Personality: Serious, introverted, analytical, introspective, observant, and undemonstrative.
+
+Representative element: His hair
+
+Serial/Manufacturing number: 17/11
+(Located on his forehead but hidden by his bangs)
+
+Year of creation: 2010
+
+Problem-solving: His hair expresses his emotions, as Tachi himself is not very expressive.
+
+Humorous detail: When he gets angry, his hair becomes as hard as cast iron.
